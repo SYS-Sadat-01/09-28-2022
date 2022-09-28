@@ -1,0 +1,38 @@
+[
+  {
+      "name":"Yousaf",
+      "lname":"Sadat",
+      "Dep":"Civil_Engineering",
+      "id_no":"kpt_962",
+      "phone":"0707570272",
+      "email":"sayedyousufsadaat1@gmail.com",
+      "photo":"pic.jpg"
+
+      
+  },
+
+
+  {
+      "name":"Hamza",
+      "lname":"Nawabi",
+      "Dep":"Civil_Engineering",
+      "id_no":"kpt_962",
+      "phone":"0707570272",
+      "email":"sayedyousufsadaat1@gmail.com",
+      "photo":"pic.jpg"
+
+      
+  },
+
+  {
+      "name":"Sharifullah",
+      "lname":"Shirzad",
+      "Dep":"Civil_Engineering",
+      "id_no":"kpt_962",
+      "phone":"0707570272",
+      "email":"sayedyousufsadaat1@gmail.com",
+      "photo":"pic.jpg"
+
+      
+  }
+]
